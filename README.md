@@ -2,8 +2,11 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Gabriel Alexssander, tenho 29 anos. 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uni Santa Cruz. Sou apaixonado por tecnologia.
+Me chamo Gabriel Alexssander.  
+Sou estudante de Análise e Desenvolvimento de Sistemas na Uni Santa Cruz e tenho interesse em desenvolvimento de software.  
+Gosto de aprender novas tecnologias e aplicar esse conhecimento em projetos.
+
+
 
 ⚛️ React Native | React | JavaScript | HTML
 
