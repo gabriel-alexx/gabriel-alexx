@@ -43,8 +43,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uni Santa C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
-/>
 <img 
     align="left" 
     alt="React Native" 
@@ -69,6 +67,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uni Santa C
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 
 <br/>
 <br/>
